@@ -1,0 +1,27 @@
+@page "/todo"
+
+<input @bind="newTodo" placeholder="Add todo..."/>
+<button class="btn btn-primary" @onclick="AddTodo">Add</button>
+
+<ul>
+    @foreach (var todo in todos)
+    {
+        <li>@todo</li>
+    }
+</ul>
+
+
+
+@code {
+    private string newTodo = string.Empty;
+    private List<string> todos = new();
+
+    private void AddTodo()
+    {
+        if (!string.IsNullOrWhiteSpace(newTodo))
+        {
+            todos.Add(newTodo);
+            newTodo = string.Empty;
+        }
+    }
+}
