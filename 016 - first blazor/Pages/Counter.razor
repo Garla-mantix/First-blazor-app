@@ -6,15 +6,23 @@
 
 <p role="status">Current count: @currentCount</p>
 
-<button class="btn btn-primary" @onclick="IncrementCount">Increase</button>
-<button class="btn btn-primary" @onclick="DecrementCount">Decrease</button>
-<button class="btn btn-primary" @onclick="ResetCount">Reset</button>
-
-
+<button class="@ButtonClass" @onclick="IncrementCount">Increase</button>
+<button class="@ButtonClass" @onclick="DecrementCount">Decrease</button>
+<button class="@ButtonClass" @onclick="ResetCount">Reset</button>
 
 @code {
     private int currentCount = 0;
     
+    private string ButtonClass
+    {
+        get
+        {
+            if (currentCount < 0) return "btn btn-danger";
+            if (currentCount > 0) return "btn btn-success";
+            return "btn btn-warning";
+        }
+    }
+
     private void IncrementCount()
     {
         currentCount++;
@@ -29,4 +37,6 @@
     {
         currentCount = 0;
     }
+
+   
 }

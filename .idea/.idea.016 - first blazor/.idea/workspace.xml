@@ -10,8 +10,28 @@
   <component name="ChangeListManager">
     <list default="true" id="c0206a4e-e14b-4a5c-ad9a-083bcc1c7a98" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.016 - first blazor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.016 - first blazor/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/016 - first blazor/Layout/MainLayout.razor" beforeDir="false" afterPath="$PROJECT_DIR$/016 - first blazor/Layout/MainLayout.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/016 - first blazor/wwwroot/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/016 - first blazor/wwwroot/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/016 - first blazor/Pages/Counter.razor" beforeDir="false" afterPath="$PROJECT_DIR$/016 - first blazor/Pages/Counter.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/016 - first blazor/bin/Debug/net8.0/016 - first blazor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/016 - first blazor/bin/Debug/net8.0/016 - first blazor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/016 - first blazor/bin/Debug/net8.0/016 - first blazor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/016 - first blazor/bin/Debug/net8.0/016 - first blazor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/016 - first blazor/bin/Debug/net8.0/wwwroot/_framework/016 - first blazor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/016 - first blazor/bin/Debug/net8.0/wwwroot/_framework/016 - first blazor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/016 - first blazor/bin/Debug/net8.0/wwwroot/_framework/016 - first blazor.pdb.gz" beforeDir="false" afterPath="$PROJECT_DIR$/016 - first blazor/bin/Debug/net8.0/wwwroot/_framework/016 - first blazor.pdb.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/016 - first blazor/bin/Debug/net8.0/wwwroot/_framework/016 - first blazor.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/016 - first blazor/bin/Debug/net8.0/wwwroot/_framework/016 - first blazor.wasm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/016 - first blazor/bin/Debug/net8.0/wwwroot/_framework/016 - first blazor.wasm.gz" beforeDir="false" afterPath="$PROJECT_DIR$/016 - first blazor/bin/Debug/net8.0/wwwroot/_framework/016 - first blazor.wasm.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/016 - first blazor/bin/Debug/net8.0/wwwroot/_framework/blazor.boot.json" beforeDir="false" afterPath="$PROJECT_DIR$/016 - first blazor/bin/Debug/net8.0/wwwroot/_framework/blazor.boot.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/016 - first blazor/bin/Debug/net8.0/wwwroot/_framework/blazor.boot.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/016 - first blazor/bin/Debug/net8.0/wwwroot/_framework/blazor.boot.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/016 - first blazor/obj/Debug/net8.0/016 - first blazor.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/016 - first blazor/obj/Debug/net8.0/016 - first blazor.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/016 - first blazor/obj/Debug/net8.0/016 - first blazor.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/016 - first blazor/obj/Debug/net8.0/016 - first blazor.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/016 - first blazor/obj/Debug/net8.0/016 - first blazor.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/016 - first blazor/obj/Debug/net8.0/016 - first blazor.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/016 - first blazor/obj/Debug/net8.0/016 - first blazor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/016 - first blazor/obj/Debug/net8.0/016 - first blazor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/016 - first blazor/obj/Debug/net8.0/016 - first blazor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/016 - first blazor/obj/Debug/net8.0/016 - first blazor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/016 - first blazor/obj/Debug/net8.0/blazor.boot.json" beforeDir="false" afterPath="$PROJECT_DIR$/016 - first blazor/obj/Debug/net8.0/blazor.boot.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/016 - first blazor/obj/Debug/net8.0/compressed/bbqdcx14ny.gz" beforeDir="false" afterPath="$PROJECT_DIR$/016 - first blazor/obj/Debug/net8.0/compressed/bbqdcx14ny.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/016 - first blazor/obj/Debug/net8.0/compressed/rg7w88pnk8.gz" beforeDir="false" afterPath="$PROJECT_DIR$/016 - first blazor/obj/Debug/net8.0/compressed/rg7w88pnk8.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/016 - first blazor/obj/Debug/net8.0/compressed/zut9de47ww.gz" beforeDir="false" afterPath="$PROJECT_DIR$/016 - first blazor/obj/Debug/net8.0/compressed/zut9de47ww.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/016 - first blazor/obj/Debug/net8.0/ref/016 - first blazor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/016 - first blazor/obj/Debug/net8.0/ref/016 - first blazor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/016 - first blazor/obj/Debug/net8.0/refint/016 - first blazor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/016 - first blazor/obj/Debug/net8.0/refint/016 - first blazor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/016 - first blazor/obj/Debug/net8.0/tmp-webcil/016 - first blazor.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/016 - first blazor/obj/Debug/net8.0/tmp-webcil/016 - first blazor.wasm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/016 - first blazor/obj/Debug/net8.0/webcil/016 - first blazor.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/016 - first blazor/obj/Debug/net8.0/webcil/016 - first blazor.wasm" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +44,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Garla-mantix"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Garla-mantix/First-blazor-app.git",
+    "accountId": "a192b389-240e-42c1-834d-da40f358e3e4"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Users/lumacone/Documents/progg/Newton/016 - first blazor/016 - first blazor/Layout/MainLayout.razor" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/lumacone/Documents/progg/Newton/016 - first blazor/016 - first blazor/Pages/Home.razor" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
     <setting file="mock:///Users/lumacone/Documents/progg/Newton/016 - first blazor/016 - first blazor/Pages/Weather.razor" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
     <setting file="mock:///Users/lumacone/Documents/progg/Newton/016 - first blazor/016 - first blazor/obj/Debug/net8.0/016 - first blazor.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -94,7 +128,7 @@
       <option name="presentableId" value="Default" />
       <updated>1759477154824</updated>
       <workItem from="1759477156029" duration="1004000" />
-      <workItem from="1759479510843" duration="2891000" />
+      <workItem from="1759479510843" duration="4223000" />
     </task>
     <task id="LOCAL-00001" summary="Övning 1 och 2 (ej färg)">
       <option name="closed" value="true" />
@@ -128,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759481791988</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Footer och färg på nav + ny hero">
+      <option name="closed" value="true" />
+      <created>1759482836436</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1759482836437</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,13 +178,25 @@
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Övning 1 och 2 (ej färg)" />
     <MESSAGE value="Todo" />
     <MESSAGE value="Fixed reset count" />
     <MESSAGE value="Nice weather" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nice weather" />
+    <MESSAGE value="Footer och färg på nav + ny hero" />
+    <option name="LAST_COMMIT_MESSAGE" value="Footer och färg på nav + ny hero" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

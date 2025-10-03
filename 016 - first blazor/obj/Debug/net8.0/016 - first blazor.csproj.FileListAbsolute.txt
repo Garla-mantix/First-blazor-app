@@ -1029,3 +1029,4 @@
 /Users/lumacone/Documents/progg/Newton/016 - first blazor/016 - first blazor/obj/Debug/net8.0/refint/016 - first blazor.dll
 /Users/lumacone/Documents/progg/Newton/016 - first blazor/016 - first blazor/obj/Debug/net8.0/016 - first blazor.pdb
 /Users/lumacone/Documents/progg/Newton/016 - first blazor/016 - first blazor/obj/Debug/net8.0/ref/016 - first blazor.dll
+/Users/lumacone/Documents/progg/Newton/016 - first blazor/016 - first blazor/obj/Debug/net8.0/016 - first blazor.sourcelink.json
